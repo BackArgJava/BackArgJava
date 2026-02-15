@@ -1,6 +1,8 @@
-# Hi there, I'm BackArgJava 👋
 
 ![Java Developer Banner](./java-banner.jpg)
+# Hi there, I'm BackArgJava 👋
+
+
 
 **Full-Stack & Backend Java Developer | AI Integrations | Freelancer**
 
