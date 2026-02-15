@@ -1,5 +1,7 @@
 # Hi there, I'm BackArgJava 👋
 
+![Java Developer Banner](./java-banner.jpg)
+
 **Full-Stack & Backend Java Developer | AI Integrations | Freelancer**
 
 I am a software developer focused on building secure, scalable backend architectures and connecting them to modern, responsive interfaces. I specialize in Java and Spring Boot, with a strong emphasis on integrating cutting-edge AI models to solve complex real-world problems. 
