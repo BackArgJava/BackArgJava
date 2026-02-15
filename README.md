@@ -4,7 +4,7 @@
 
 I am a software developer focused on building secure, scalable backend architectures and connecting them to modern, responsive interfaces. I specialize in Java and Spring Boot, with a strong emphasis on integrating cutting-edge AI models to solve complex real-world problems. 
 
-Currently, I am working as a freelancer, collaborating with international clients and continuously expanding my technical stack.
+Currently, I am working as a freelancer based in **Buenos Aires, Argentina 🇦🇷**. I collaborate with international clients, offering seamless communication and highly compatible working hours for global and North American engineering teams.
 
 ### 🚀 What I'm Working On
 * 🧠 **Sentinel AI:** An intelligent, decoupled Full-Stack bug tracking dashboard integrating Google Gemini 2.5 Flash with a Spring Boot REST API and a React frontend.
@@ -31,7 +31,7 @@ Currently, I am working as a freelancer, collaborating with international client
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Santi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BackArgJava&show_icons=true&theme=radical" alt="BackArgJava's GitHub Stats" />
 </p>
 
 ---
