@@ -33,10 +33,5 @@ Currently, I am working as a freelancer based in **Buenos Aires, Argentina 🇦�
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BackArgJava&show_icons=true&theme=radical" alt="BackArgJava's GitHub Stats" />
-</p>
 
----
 *Open to freelance opportunities and international collaborations. Let's build something great.* 🌎
